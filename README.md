@@ -1,5 +1,7 @@
 # French <> English Translation App
 
+Check out the [app here](https://englishfrenchtranslatorfromchris.mybluemix.net/)
+
 ![translation-app](/images/english_to_french_translation.png)
 
 An app built for the [Python Project for AI & Application Development Course](https://www.coursera.org/learn/python-project-for-ai-application-development) on Coursera
