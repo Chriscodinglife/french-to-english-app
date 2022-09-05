@@ -14,3 +14,7 @@ ibmcloud app push
 
 # Check logs for your app
 ibmcloud cf logs <appname> --recent
+
+# Visit your app here:
+https://englishfrenchtranslatorfromchris.mybluemix.net/
+
