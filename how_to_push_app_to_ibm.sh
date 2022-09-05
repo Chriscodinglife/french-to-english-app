@@ -16,5 +16,5 @@ ibmcloud app push
 ibmcloud cf logs <appname> --recent
 
 # Visit your app here:
-https://englishfrenchtranslatorfromchris.mybluemix.net/
+open "https://englishfrenchtranslatorfromchris.mybluemix.net/"
 
