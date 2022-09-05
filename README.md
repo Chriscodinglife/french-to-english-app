@@ -1,6 +1,6 @@
 # French <> English Translation App
 
-Check out the [app here](https://englishfrenchtranslatorfromchris.mybluemix.net/)
+## Check out the [app here](https://englishfrenchtranslatorfromchris.mybluemix.net/)
 
 ![translation-app](/images/english_to_french_translation.png)
 
